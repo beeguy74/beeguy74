@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iaroslav
-- 👀 I’m interested in life
-- 🌱 I’m currently learning adaptive layout html
+- 👀 I’m interested in motorsport and snowboard
+- 🌱 I’m currently learning Cairo 🔴
 - 💞️ I’m looking to collaborate on blockchain apps
 - 📫 How to reach me [Telegram](https://t.me/beeguy)
 
