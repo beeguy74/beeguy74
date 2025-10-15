@@ -63,9 +63,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/i-neverov" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
 <a href="https://t.me/beeguy" target="_blank">
 <img src=https://github.com/user-attachments/assets/4dae785b-6083-4f33-aaa7-d4a3d2197cae alt=linkedin style="margin-bottom: 5px;" height="30" />
