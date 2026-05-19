@@ -1,19 +1,19 @@
 ### <div align="center">I'm Yaroslav, a backend developer 👨‍💻 coding since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Only Dust](https://app.onlydust.com/u/beeguy74)  
+- 🔭 I’m currently working on RAG related projects
   
 
-- 🌱 I’m currently learning Starknet Cairo  
+- 🌱 I’m currently learning System design  
   
 
-- 💞️ I’m looking to collaborate on blockchain apps
+- 💞️ I’m looking to collaborate on lifestyle projects
 
 
 - ❓ Ask me about anything related to python backend  
   
 
-- ⚡ Fun fact: I use spaces  
+- ⚡ Fun fact: I use spaces for indentation
 
 <br/>  
 
