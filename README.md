@@ -1,21 +1,24 @@
-### <div align="center">I'm Yaroslav, a backend developer 👨‍💻 coding since 2020 🚀</div>  
-  
+### <div align="center">I'm Yaroslav, a backend developer 👨‍💻 coding since 2020 🚀</div>
 
-- 🔭 I’m currently working on RAG related projects
-  
+<div align="center">Building LLM systems at <a href="https://pleias.ai" target="_blank"><b>pleias.ai</b></a> — pushing the <b>RLM</b> approach to working with language models.</div>
 
-- 🌱 I’m currently learning System design  
-  
+<br/>
 
-- 💞️ I’m looking to collaborate on lifestyle projects
+- 🏢 I’m at **[pleias.ai](https://pleias.ai)**, where I work on LLM infrastructure and applications
 
+- 🔭 I’m currently pushing the **RLM approach** to working with LLMs — moving beyond one-shot prompting toward models that retrieve, reason and act in a structured loop
 
-- ❓ Ask me about anything related to python backend  
-  
+- 🧩 Day to day: RAG pipelines, retrieval quality, evaluation, and the plumbing that makes all of it reproducible
+
+- 🌱 I’m currently learning System design
+
+- 💞️ I’m looking to collaborate on LLM / RLM tooling and lifestyle projects
+
+- ❓ Ask me about anything related to Python backend, RAG, or serving LLMs in production
 
 - ⚡ Fun fact: I use spaces for indentation
 
-<br/>  
+<br/>
 
 
 ## My Skill Set
