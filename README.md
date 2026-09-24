@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently pushing the **RLM approach** to working with LLMs — moving beyond one-shot prompting toward models that retrieve, reason and act in a structured loop
 
+- 🤖 Currently exploring autonomous agents with QM
+
 - 🧩 Day to day: RAG pipelines, retrieval quality, evaluation, and the plumbing that makes all of it reproducible
 
 - 🌱 I’m currently learning System design
